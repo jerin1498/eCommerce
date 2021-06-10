@@ -1,4 +1,4 @@
-Django==1.11.10
+Django==2.2.24
 Pillow==6.1.0
 requests==2.22.0
 stwebsocket-client==0.18.0
